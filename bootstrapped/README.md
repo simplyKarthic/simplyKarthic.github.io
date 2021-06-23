@@ -1,6 +1,6 @@
-# simplyKarthic.github.io
+# This a custom bootstrap template 
 this is my first project with bootstrap for a companies portfolio website
 
 check the sites responsiveness and looks by going through this url
 
-https://simplykarthic.github.io/
+https://simplykarthic.github.io/bootstrapped
