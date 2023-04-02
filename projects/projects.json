@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Ayani",
+    "desc": "Flutter Q Commerce App is a mobile application developed using the Flutter framework for the purpose of online orderings",
+    "image": "ayani",
+    "category": "Flutter",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "EpayIndia",
+    "desc": "A portfolio site for a eHRMS software (Human Resource Management System) that can showcase the features and benefits of the system",
+    "image": "epayindia",
+    "category": "Django",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "HASPL",
+    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "image": "haspl",
+    "category": "Django",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Password Manager",
+    "desc": "Password manager in Python for desktop using Tkinter, gives executable file to store username, password, email in a instant database file locally",
+    "image": "password",
+    "category": "Python",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/simplyKarthic/tkinter_password_manager"
+    }
+  },
+  {
+    "name": "Rentbased",
+    "desc": "A Multivendor Market Platform to rent products and maintain product history and user history.",
+    "image": "rentbased",
+    "category": "Wordpress",
+    "links": {
+      "view": "http://www.rentbased.com/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "skswamy",
+    "desc": "A Ecommerce application to sell products online. It has a admin panel to manage products and orders.",
+    "image": "skswamy",
+    "category": "Wordpress",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "staff",
+    "desc": "A app to manage staff and their availabality. It has a Dashboard to manage active staff and their availabality.",
+    "image": "staff",
+    "category": "flutter",
+    "links": {
+      "view": "https://github.com/simplyKarthic/staffDashboard",
+      "code": "https://github.com/simplyKarthic/staffDashboard"
+    }
+  },
+  {
+    "name": "Threadtalk",
+    "desc": "A user-friendly digital platform that collects and saves all posts for easy access and ensures that chats stay in sync across all devices ",
+    "image": "threadtalk",
+    "category": "Flutter",
+    "links": {
+      "view": "https://github.com/simplyKarthic/sitemark",
+      "code": "https://github.com/simplyKarthic/sitemark"
+    }
+  },
+  {
+    "name": "time",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "time",
+    "category": "Flutter",
+    "links": {
+      "view": "https://github.com/simplyKarthic/WorldTime-app",
+      "code": "https://github.com/simplyKarthic/WorldTime-app"
+    }
+  },
+  {
+    "name": "vidhai",
+    "desc": "A portfoilo site for a Recycling company that can showcase the features and benefits of the system",
+    "image": "vidhai",
+    "category": "Django",
+    "links": {
+      "view": "https://vidhairecycling.in/",
+      "code": "#"
+    }
+  }
+]
